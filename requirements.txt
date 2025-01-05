@@ -1,0 +1,7 @@
+colorama==0.4.6
+docx2pdf==0.1.8
+pip==24.2
+pywin32==308
+setuptools==75.1.0
+tqdm==4.67.1
+wheel==0.44.0
